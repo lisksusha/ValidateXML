@@ -1,0 +1,8 @@
+C:\Users\cfiji\Desktop\xml2\bin\Debug\SimpleXMLValidator2.exe
+C:\Users\cfiji\Desktop\xml2\bin\Debug\SimpleXMLValidator2.pdb
+C:\Users\cfiji\Desktop\xml2\obj\Debug\SimpleXMLValidator2.csprojAssemblyReference.cache
+C:\Users\cfiji\Desktop\xml2\obj\Debug\SimpleXMLValidator2.frmMain.resources
+C:\Users\cfiji\Desktop\xml2\obj\Debug\SimpleXMLValidator2.csproj.GenerateResource.cache
+C:\Users\cfiji\Desktop\xml2\obj\Debug\SimpleXMLValidator2.csproj.CoreCompileInputs.cache
+C:\Users\cfiji\Desktop\xml2\obj\Debug\SimpleXMLValidator2.exe
+C:\Users\cfiji\Desktop\xml2\obj\Debug\SimpleXMLValidator2.pdb
